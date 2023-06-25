@@ -36,7 +36,6 @@ const Booking = () => {
             </div>
           
           </div>
-
           <div className='form-phase'>
 
             <div className='input'>
