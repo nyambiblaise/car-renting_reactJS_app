@@ -21,8 +21,7 @@ const AboutComp = () => {
              Guy the put instrument sir entreaties affronting. 
              Pretended exquisite see cordially the you. Weeks quiet
               do vexed or whose. Motionless if no to affronting
-               imprudence no precaution. 
-            My indulged as disposal strongly attended.</p>
+               imprudence no precaution. My indulged as disposal strongly attended.</p>
 
             <div className='ac-boxes'>
 
