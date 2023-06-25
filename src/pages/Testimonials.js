@@ -5,7 +5,6 @@ import HeroImage from '../components/HeroImage';
 import Review from '../components/Review';
 import Advert2 from '../components/Advert2';
 
-
 const Testimonials = () => {
   return (
     <div>
