@@ -14,9 +14,7 @@ const Advert = () => {
   }
 
   return (
-
     <div className='advert-section'>
-        
         <div className={click ? 'advert-banner none' : 'advert-banner'}>
             <div>
             <h1>Save big with our affordable flight!</h1>
